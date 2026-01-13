@@ -18,13 +18,11 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+**Banco de Dados e Versionamento**
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-Javascript | Typescript | Python | Node.js | React
-
-**Banco de Dados e Versionamento**
-MongoDB | SQL | Git
 
 ## 📌 Projetos em Destaque
 
