@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Pedro Venâncio
 
-<!--
-**phvenancio/phvenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na [Fatec Registro](https://fatecregistro.cps.sp.gov.br)
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por **solucionar problemas** e **criar coisas novas**, sempre motivado por desafios. 
+Atualmente, estou **aprofundando meus conhecimentos em desenvolvimento full-stack** para ter uma visão mais completa da área.
+
+Acredito que **um código limpo e bem documentado** é tão importante quanto sua funcionalidade. 
+Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir projetos que façam a diferença, dando sempre o melhor de mim mesmo.
+
+## 💻 Tecnologias e Ferramentas
+
+**Linguagens e Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+Javascript | Typescript | Python | Node.js | React
+
+**Banco de Dados e Versionamento**
+MongoDB | SQL | Git
+
+## 📌 Projetos em Destaque
+
+
+
+## 📫 Contato
+
+- 💼 [Linkedin](https://www.linkedin.com/in/pedro-henrique-venâncio-8b6814222/)
+- 📧 **Email**: [pedro.venancio1910@gmail.com](pedro.venancio1910@gmail.com)
