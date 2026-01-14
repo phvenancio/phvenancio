@@ -12,7 +12,7 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
 
 ## 💻 Tecnologias e Ferramentas
 
-**Linguagens e Frameworks**
+### Linguagens e Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -21,7 +21,7 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-**Banco de Dados e Versionamento**
+### Banco de Dados e Versionamento
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
@@ -30,7 +30,23 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
 
 ## 📌 Projetos em Destaque
 
-
+<table>
+  <tr align="center">
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cypher-Wave/Mobo">Mobo</a></td>
+    <td>Plataforma de gerenciamento agrícola com foco em automatização da colheita de lichia</td>
+    <td>Node.js, TypeScript, MongoDB, Express, React</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/phvenancio/ldw-python-flask/tree/main/ex/exercicio_03">API de Música</a></td>
+    <td>CRUD completo integrado a uma API pública de músicas</td>
+    <td>Python, Flask, SQL</td>
+  </tr>
+</table>
 
 ## 📫 Contato
 
