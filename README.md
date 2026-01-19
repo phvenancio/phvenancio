@@ -38,7 +38,7 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
   </tr>
   <tr>
     <td><a href="https://github.com/Cypher-Wave/Mobo">Mobo</a></td>
-    <td>Plataforma de gerenciamento agrícola com foco em automatização da colheita de lichia</td>
+    <td>Sistema de Monitoramento e Colheita Automatizada de Lichias</td>
     <td>Node.js, TypeScript, MongoDB, Express, React</td>
   </tr>
   <tr>
