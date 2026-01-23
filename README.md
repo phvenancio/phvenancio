@@ -42,7 +42,7 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
     <td>Node.js, TypeScript, MongoDB, Express, React</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/phvenancio/ldw-python-flask/tree/main/ex/exercicio_03">API de Música</a></td>
+    <td><a href="https://github.com/phvenancio/api-musica.git">API de Música</a></td>
     <td>CRUD completo integrado a uma API pública de músicas</td>
     <td>Python, Flask, SQL</td>
   </tr>
