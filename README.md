@@ -39,12 +39,17 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
   <tr>
     <td><a href="https://github.com/Cypher-Wave/Mobo">Mobo</a></td>
     <td>Sistema de Monitoramento e Colheita Automatizada de Lichias</td>
-    <td>Node.js, TypeScript, MongoDB, Express, React</td>
+    <td>TypeScript, Node.js, Express, React, MongoDB</td>
   </tr>
   <tr>
     <td><a href="https://github.com/phvenancio/api-musica.git">API de Música</a></td>
     <td>CRUD completo integrado a uma API pública de músicas</td>
-    <td>Python, Flask, SQL</td>
+    <td>Python, Flask, MySQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/laboratorio-de-praticas-2025-2/Imobiliaria_Bortone.git">Imobiliária Bortone</a></td>
+    <td>Sistema web completo para venda de imóveis</td>
+    <td>JavaScript, Node.js, React, PostgreSQL, Vercel</td>
   </tr>
 </table>
 
