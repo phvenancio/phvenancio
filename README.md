@@ -10,6 +10,8 @@ Atualmente, estou **aprofundando meus conhecimentos em desenvolvimento full-stac
 Acredito que **um código limpo e bem documentado** é tão importante quanto sua funcionalidade. 
 Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir projetos que façam a diferença, dando sempre o melhor de mim mesmo.
 
+---
+
 ## 💻 Tecnologias e Ferramentas
 
 ### Linguagens e Frameworks
@@ -27,6 +29,8 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
+
+---
 
 ## 📌 Projetos em Destaque
 
@@ -52,6 +56,8 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
     <td>JavaScript, Node.js, React, PostgreSQL, Vercel</td>
   </tr>
 </table>
+
+---
 
 ## 📫 Contato
 
