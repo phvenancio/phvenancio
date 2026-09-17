@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Pedro Venâncio
+# 👋🏻 Olá! Me chamo Pedro Venâncio
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na [Fatec Registro](https://fatecregistro.cps.sp.gov.br)
 
