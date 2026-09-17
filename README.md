@@ -37,7 +37,7 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
     <th>Tecnologias</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Cypher-Wave/Mobo">Mobo</a></td>
+    <td><a href="https://github.com/CW-Mobo">Mobo</a></td>
     <td>Sistema de Monitoramento e Colheita Automatizada de Lichias</td>
     <td>TypeScript, Node.js, Express, React, MongoDB</td>
   </tr>
@@ -55,5 +55,5 @@ Sempre busco aprender novas tecnologias, melhorar minhas habilidades e construir
 
 ## 📫 Contato
 
-- 💼 [Linkedin](https://www.linkedin.com/in/pedro-henrique-venâncio-8b6814222/)
+- 💼 [Linkedin](https://www.linkedin.com/in/pedro-henrique-venancio/)
 - 📧 **Email**: [pedro.venancio1910@gmail.com](pedro.venancio1910@gmail.com)
